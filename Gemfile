@@ -9,9 +9,9 @@ gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Middleman Gems
-gem 'middleman', '>= 4.0.0'
-gem 'middleman-livereload'
-gem 'middleman-compass', '>= 4.0.0'
+gem 'middleman', '>= 4.1.7'
+gem 'middleman-livereload', '>= 3.4.6'
+gem 'middleman-compass', '>= 4.0.1'
 
 # scss lint
 gem 'scss_lint', require: false
